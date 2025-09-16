@@ -11,7 +11,7 @@ jobs:
     permissions: write-all
 
     runs-on: ubuntu-latest
-    container: debian:buster-slim
+    container: debian:trixie-slim
  
     steps:
  
