@@ -15,8 +15,8 @@ Design Goals
 
 The water system should be:
 
-1. Low-Maintenance
-1. Hygienic
+#. Low-Maintenance
+#. Hygienic
 
 Low-Maintenance
 ***************
@@ -72,16 +72,17 @@ Pre-Filter
 
 This pre-filter will remove turbidity from the water before it enters the slow sand filter.
 
-This is [built](https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm) from a 200-litre HDPE drum that's filled with rocks and (mostly coarse) sand.
+This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 200-litre HDPE drum that's filled with rocks and (mostly coarse) sand.
 
 Slow Sand Filter
 ****************
 
-The [Slow Sand Filter](https://en.wikipedia.org/wiki/Slow_sand_filter) will remove harmful bacteria and parasites from the water.
+The `Slow Sand Filter <https://en.wikipedia.org/wiki/Slow_sand_filter>`_ will remove harmful bacteria and parasites from the water.
 
-This is [built](https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm) from a 200-litre HDPE drum that's filled with rocks and (mostly fine) sand.
+This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 200-litre HDPE drum that's filled with rocks and (mostly fine) sand.
 
-## Media Sediment Filter
+Media Sediment Filter
+*********************
 
 A self-cleaning spin down filter (smallest size micron available) will remove filtering media debris (sand) that may have come-out of the filters
 

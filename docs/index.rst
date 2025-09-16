@@ -6,7 +6,7 @@ Welcome to Eco-Libre's Life-Line documentation!
 
 Welcome! This is the official documentation for the Eco-Libre Life-Line.
 
-.. figure:: /images/life-line_2023.12.jpg
+.. figure:: /images/life-line_2025.10.jpg
   :align: center
 
   CAD Design of the Eco-Libre Life-Line

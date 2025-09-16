@@ -22,10 +22,3 @@ Q: My questions isn't listed. Where can I get support?
 ------------------------------------------------------
 
 Please see :ref:`support`
-
-.. _faq_jacktest:
-
-Q: This is an example question
-------------------------------------------------------
-
-This is an example
