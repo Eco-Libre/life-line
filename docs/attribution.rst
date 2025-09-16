@@ -4,8 +4,10 @@ Attribution
 ===========
 
 Thank you to the following folks who have contributed to the Life-Line project!
- * `Michael Altfield <https://michaelaltfield.net>`_
- * `Jack Nugent <https://github.com/Matterhorn777>`_
+ * `Michael Altfield <maltfield_>`_
+ * `Jack Nugent <jnugent_>`_
+ * `Boris Plotkin <bplotkin_>`_
+ * `Vegan Beasts <vbeasts_>`_
 
 This project would not have been possible without the following tools and services:
  * `Python <https://www.python.org/>`_
@@ -31,3 +33,8 @@ The reader may be interested to investigate the following similar projects:
  * `WikiHouse <https://www.wikihouse.cc/>`_
  * `One Community Global <https://www.onecommunityglobal.org>`_
  * `Auroville Earth Institute <https://earth-auroville.com/>`_
+
+.. _maltfield: https://www.michaelaltfield.net
+.. _bplotkin: https://t.me/borisplot
+.. _jnugent: https://github.com/Matterhorn777
+.. _vbeasts: https://www.instagram.com/veganbeasts
