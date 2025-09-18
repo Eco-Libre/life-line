@@ -1,7 +1,7 @@
 .. _intake_bom:
 
 Bill of Materials
-============
+=================
 
 This section will list the materials needed to build the Intake component of the Eco-Libre Life-Line project.
 
