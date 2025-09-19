@@ -80,12 +80,17 @@ pygments_style = None
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
+html_logo = 'images/eco-libre_text-logo-2025.08.svg'
+html_favicon = 'images/eco-libre_logo-2025.08.svg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
 #
-# html_theme_options = {}
+html_theme_options = {
+        'logo_only': True,
+        'display_version': True,
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -221,6 +226,10 @@ else:
    # the user is probably doing `make html`
    # set this build's current version by looking at the branch
    current_version = repo.active_branch.name
+
+# rename the 'main' branch to be version = 'latest'
+if current_version == 'main':
+        current_version = 'latest'
  
 # tell the theme which version we're currently on ('current_version' affects
 # the lower-left rtd menu and 'version' affects the logo-area version)
