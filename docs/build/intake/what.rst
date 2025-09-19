@@ -6,6 +6,7 @@ What is the "Intake" Component?
 This section will describe how to build the "Intake" component of the Eco-Libre Life-Line system.
 
 .. figure:: /images/life-line_intake_parts.svg
+  :target: ../../_images/life-line_intake_parts.svg
   :align: center
 
   CAD Design of the Eco-Libre Life-Line's "Intake" component

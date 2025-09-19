@@ -3,7 +3,7 @@
 Intake
 ======
 
-This is a section that will talk about how to build the "Intake" component of the Eco-Libre Life-Line system.
+This section will describe how to build the "Intake" component of the Eco-Libre Life-Line system.
 
 .. toctree::
    :maxdepth: 3
