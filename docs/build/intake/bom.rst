@@ -5,123 +5,18 @@ Bill of Materials
 
 This section will list the materials needed to build the Intake component of the Eco-Libre Life-Line project.
 
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             SD - SHT
-Product           Plastic Drum
-Material          HDPE
-Weight            9.5 kg
-Capacity          200 L
-Temp Range        -35 to 80 degrees
-Color             Blue/White
-Size              930 mm x 590 mm (equipped with two 55 mm diameter bung holes)
-Quantity req'd:   1 (split in half length-wise)
-The unit cost:    varies by nation
-================  ============================================================
+ ===== ======================================= ================== ======================================================================== ============= ======= =================== ============ ================================== ======================================================================================================================================================================================= ====================================================
+  Qty   Item                                    Price (EUR)        Material                                                                 Weight (kg)   Color   Dimensions (mm)     Capacity     Tolerances                         Product URI (with price)                                                                                                                                                                Other Notes
+ ===== ======================================= ================== ======================================================================== ============= ======= =================== ============ ================================== ======================================================================================================================================================================================= ====================================================
+  2     Weir                                    759.69             Rocks, CEBs, Concrete Blocks, Bricks, and/or Steel-Reinforced Concrete                         1035 x 1000 x 500                                                   https://brooksonline.ie/kilsaran-kpro-crete-multi-purpose-concrete-25kg-un0427                                                                                                          Highly variable; price is minimum in just concrete
+  1     Drum                                    109                HDPE                                                                     5.5           Blue    493 x 745           220 Liters                                      https://www.denios.ie/plastic-drums-with-bunghole-120-220-litre-volume-10300300451400/266140
+  2     Steel Angle                             11.8256666666667   Steel                                                                                          650 x 60 x 6                                                        https://mybuildingsupplies.ie/shop/building-supplies/steel/steel-beams-steel-lengths-steel-sheets/steel-angle/
+  4     M16 Concrete Anchor Bolt                8.664              Galvanized Steel                                                                               M16 x 100 mm                                                        https://www.screwfix.ie/p/rawlplug-throughbolts-r-xpt-m16-x-100mm-25-pack/657vc
+  2     Fine Mesh Screen                        17.1792010250687   Stainless Steel                                                                                1000 x 665                       Holes 0.85 mm large (20 US Mesh)   https://www.ubuy.ie/en/product/MVOYTLARG-304-stainless-steel-mesh-47in-x-10ft-20-mesh-never-rust-sturdy-metal-mesh-screen-woven-wire-mesh-roll-for-window-screen-replacement-door-air
+  2     Expanded Metal                          186.067            Galvanized Steel                                                                               1000 x 665                                                          https://www.lenehans.ie/steel-expanded-metal-sheet-1000mm-x-500mm.html
+  4     Through-Wall Bushing (aka “bulkhead”)   120.68             PVC                                                                                            50 mm (2 inch)                                                      https://www.recifart.com/en/fitting/572-bulkhead-50mm.html
+  2     50 mm Pipe                              15                 PVC                                                                                            1000 mm + 500 mm                                                    https://percolationsupplies.ie/product/50mm-pvc-piping/
+  4     50 mm Valve                             55.32              PVC                                                                                            -                                                                   https://www.peservices.ie/product/ball-valve-pvc-u-50mm
 
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           Concrete Wall
-Material          Compressed Earth or Concrete Blocks
-Weight            25 kg
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              \-
-Quantity req'd:   \-
-The unit cost:    varies by nation
-================  ============================================================
+ ===== ======================================= ================== ======================================================================== ============= ======= =================== ============ ================================== ======================================================================================================================================================================================= ====================================================
 
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           Rebar
-Material          Steel
-Weight            \-
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              1000 mm in our model (225 mm pieces allow for a 1” extension for hanging turbulence bars)
-Quantity req'd:   Many engineers `suggest <https://www.hunker.com/13425063/concrete-slab-rebar-spacing-guideline>` a minimum distance of one slab thickness (200 mm in  our model) between rebars and a maximum of three slab thicknesses."
-The unit cost:    varies by nation
-================  ============================================================
-
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             GPI1109091
-Product           GPI 2 in. NPT Bung Adapter Kit
-Material          PVC
-Weight            n/a
-Capacity          n/a
-Temp Range        n/a
-Color             n/a
-Size              55 mm or 2.16 in
-Quantity req'd:   2
-The unit cost:    varies by nation
-================  ============================================================
-
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           2 in. PVC valve
-Material          PVC
-Weight            \-
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              \-
-Quantity req'd:   2
-The unit cost:    varies by nation
-================  ============================================================
-
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           Angle Bar
-Material          Steel
-Weight            \-
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              "One length of 1300 mm angle bar cut into two pieces (at least 650 mm) in our model. Often sold in 6.1 m lengths at hardware stores. You’ll need two lengths of the most inexpensive steel angle bar available and it must span the width of both the weir opening as well as the 590 mm diameter of the 200L barrel top. Painted to prevent rusting after they are cut to size and drilled for attaching to rebar or self tapping concrete screws/bolts.
-Quantity req'd:   2
-The unit cost:    \-
-================  ============================================================
-
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           Expanded metal mesh
-Material          Steel
-Weight            \-
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              1000 mm x 665 mm
-Quantity req'd:   2
-The unit cost:    varies by nation
-================  ============================================================
-
-================  ============================================================
-Specification         Build of Materials
-================  ============================================================
-Model             \-
-Product           Fine Mesh Screen
-Material          Stainless Steel
-Weight            \-
-Capacity          \-
-Temp Range        \-
-Color             \-
-Size              1000 mm x 665 mm
-Mesh Size         0.85 mm hole size (20 `US Mesh <https://en.wikipedia.org/wiki/Mesh_(scale)>`_)
-Quantity req'd:   2
-The unit cost:    varies by nation
-================  ============================================================

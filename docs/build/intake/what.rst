@@ -3,7 +3,7 @@
 What is the "Intake" Component?
 ===============================
 
-This is a section that will talk about how to build the "Intake" component of the Eco-Libre Life-Line system.
+This section will describe how to build the "Intake" component of the Eco-Libre Life-Line system.
 
 .. figure:: /images/life-line_intake_parts.svg
   :align: center
@@ -26,10 +26,19 @@ The "Intake" component is made-up of several parts:
 
 The Weir is a masonry structure (CEB, Concrete Block, or Steel-reinforced Concrete) that's built in the middle of a stream. It has a Weir Opening at the top, which channels falling water to flow ontop of a :ref:`metal screen <intake_screen>` and into a :ref:`water collection drum <intake_drum>`.
 
-.. figure:: /images/life-line_intake_weir.jpg
-  :align: center
+	* - .. figure:: /images/life-line_intake_weir.jpg
+		:target: ../../_images/life-line_intake_weir.jpg
+		:alt: Screenshot of FreeCAD, highlighting a long blue drum that's cut in half
+		:align: center
 
-  The Life-Line "Intake" component's Weir
+		The Life-Line "Intake" component's Weir
+
+	  - .. figure:: /images/life-line_praxis_boris-plotkin.2024-11.jpg
+		:target: ../../_images/life-line_praxis_boris-plotkin.2024-11.jpg
+		:alt: Photo of a freshly-constructed rock-and-concrete-block weir
+		:align: center
+
+		Concrete Block, Rock, and Cement Weir for the Eco-Libre Life-Line at Fruit Haven in Morona-Santiago, Ecuador (attribution: `Boris Plotkin <bplotkin_>`_)
 
 The distance between the bottom of the Weir Opening and the top of the :ref:`Fine Mesh Screen <intake_screen>` atop the :ref:`water collection drum <intake_drum>` must be at least 20 cm. If the water falls less than 20 cm, it will not have enough force to self-clean the :ref:`screen <intake_screen>` of organic debris.
 
@@ -112,7 +121,7 @@ If possible, a valve actuator (eg a simple electronic sprinkler system on a time
 7. Drum
 -------
 
-The Drum is a standard 200L (55 gallon) HDPE barrel drum that's been cut in half length-wise.
+The Drum is a standard 220L (55 gallon) HDPE barrel drum that's been cut in half length-wise.
 
 .. figure:: /images/life-line_intake_drum.jpg
   :align: center
@@ -126,3 +135,4 @@ Two holes are cut on the downstream side of the drum, where through-wall bushing
 .. _20mesh: https://en.wikipedia.org/wiki/Mesh_(scale)
 .. _github_repo: https://github.com/eco-libre/life-line
 .. _freecad_download: https://www.freecad.org/downloads
+.. _bplotkin: https://t.me/borisplot

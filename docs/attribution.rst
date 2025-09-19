@@ -29,10 +29,7 @@ Similar Projects
 
 The reader may be interested to investigate the following similar projects:
 
- * `Open Building Institute <https://www.openbuildinginstitute.org/>`_
- * `WikiHouse <https://www.wikihouse.cc/>`_
- * `One Community Global <https://www.onecommunityglobal.org>`_
- * `Auroville Earth Institute <https://earth-auroville.com/>`_
+ * TODO
 
 .. _maltfield: https://www.michaelaltfield.net
 .. _bplotkin: https://t.me/borisplot
