@@ -11,6 +11,9 @@ This section will describe how to build the "Intake" component of the Eco-Libre 
 
   CAD Design of the Eco-Libre Life-Line's "Intake" component
 
+.. contents::
+   :local:
+
 .. note::
    Want to **view the 3D Model** of the Intake Compoenent above?
 
@@ -27,19 +30,19 @@ The "Intake" component is made-up of several parts:
 
 The Weir is a masonry structure (CEB, Concrete Block, or Steel-reinforced Concrete) that's built in the middle of a stream. It has a Weir Opening at the top, which channels falling water to flow ontop of a :ref:`metal screen <intake_screen>` and into a :ref:`water collection drum <intake_drum>`.
 
-	* - .. figure:: /images/life-line_intake_weir.jpg
-		:target: ../../_images/life-line_intake_weir.jpg
+.. list-table::
+
+        * - .. figure:: /images/life-line_intake_weir.jpg
+                :target: ../../_images/life-line_intake_weir.jpg
 		:alt: Screenshot of FreeCAD, highlighting a long blue drum that's cut in half
 		:align: center
-
-		The Life-Line "Intake" component's Weir
+                :width: 315 px
 
 	  - .. figure:: /images/life-line_praxis_boris-plotkin.2024-11.jpg
 		:target: ../../_images/life-line_praxis_boris-plotkin.2024-11.jpg
 		:alt: Photo of a freshly-constructed rock-and-concrete-block weir
 		:align: center
-
-		Concrete Block, Rock, and Cement Weir for the Eco-Libre Life-Line at Fruit Haven in Morona-Santiago, Ecuador (attribution: `Boris Plotkin <bplotkin_>`_)
+                :width: 315 px
 
 The distance between the bottom of the Weir Opening and the top of the :ref:`Fine Mesh Screen <intake_screen>` atop the :ref:`water collection drum <intake_drum>` must be at least 20 cm. If the water falls less than 20 cm, it will not have enough force to self-clean the :ref:`screen <intake_screen>` of organic debris.
 
@@ -64,10 +67,19 @@ The Turbulence Bar changes the flow of the water as it passes through the Weir O
 
 The Fine Mesh Screen is a very fine metal screen that's designed to filter-out large organic materials (eg leaves, sticks, stones, grass, etc) from entering the :ref:`drum <intake_drum>`.
 
-.. figure:: /images/life-line_intake_fine-mesh.jpg
-  :align: center
+.. list-table::
 
-  The Life-Line "Intake" component's Fine Mesh Screen
+        * - .. figure:: /images/life-line_intake_fine-mesh.jpg
+                :target: ../../_images/life-line_intake_fine-mesh.jpg
+		:alt: Screenshot of FreeCAD, highlighting a mesh screen ontop of a long blue drum cut in half
+		:align: center
+                :width: 315 px
+
+	  - .. figure:: /images/life-line_praxis_vegan-beasts_screen.2025-04.jpg
+		:target: ../../_images/life-line_praxis_vegan-beasts_screen.2025-04.jpg
+		:alt: Photo of a rock-and-concrete-block weir pouring over a fine mesh screen
+		:align: center
+                :width: 315 px
 
 The Fine Mesh Screen should be made of Stainless Steel, and the holes in the screen should be approximately 0.85 mm large (20 `US Mesh <20mesh_>`_)
 

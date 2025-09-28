@@ -39,13 +39,15 @@ Size
 
 **Milli (150-person)** To handle a community of up to 150-people, the micro system is horizontally scaled.
 
+.. _theory_components:
+
 Components
 ----------
 
 Intake
 ^^^^^^
 
-The water intake will consist of a weir on a stream with two openings with turbulence bars that channel turbulent water down onto a screen-covered 200-liter barrel angled at at downward slope.
+The water intake will consist of a weir on a stream with two openings with turbulence bars that channel turbulent water down onto a screen-covered 220-liter barrel angled at at downward slope.
 
 .. figure:: /images/life-line_intake_parts.svg
   :target: ../build/intake/index.html
@@ -79,14 +81,14 @@ Pre-Filter
 
 This pre-filter will remove turbidity from the water before it enters the slow sand filter.
 
-This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 200-litre HDPE drum that's filled with rocks and (mostly coarse) sand.
+This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 220-litre HDPE drum that's filled with rocks and (mostly coarse) sand.
 
 Slow Sand Filter
 ^^^^^^^^^^^^^^^^
 
 The `Slow Sand Filter <https://en.wikipedia.org/wiki/Slow_sand_filter>`_ will remove harmful bacteria and parasites from the water.
 
-This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 200-litre HDPE drum that's filled with rocks and (mostly fine) sand.
+This is `built <https://web.archive.org/web/20070728135100/http://www.refugeecamp.org/learnmore/water/slow_sand_filter.htm>`_ from a 220-litre HDPE drum that's filled with rocks and (mostly fine) sand.
 
 Media Sediment Filter
 ^^^^^^^^^^^^^^^^^^^^^

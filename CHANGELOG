@@ -4,4 +4,7 @@ Eco-Libre Life-Line Changelog
 * first formal release (very alpha)
 * changed expanded metal to hatch of solid (optimization)
   https://www.eco-libre.org/expanded-metal-hatch-freecad/
-* thank you to Michael Altfield and Jack Nugent
+* simplified other objects, reducing (compressed) intake.FCStd from 15 MB to 0.212 KB
+* reduced total (uncompressed) MemSize about 172x from 114.8 MB to ~0.7 MB
+* added fine metal mesh (as hatched solid)
+* thank you to Michael Altfield, Jack Nugent, Boris Plotkin, and Vegan Beasts

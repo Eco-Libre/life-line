@@ -20,3 +20,10 @@ This section will list the materials needed to build the Intake component of the
 
  ===== ======================================= ================== ======================================================================== ============= ======= =================== ============ ================================== ======================================================================================================================================================================================= ====================================================
 
+.. note::
+   Want to **view the original spreadsheet** of the BOM above?
+
+   You can download the ``docs/build/intake/bom.ods`` file from out `GitHub repo <github_repo_>`_ and open it on your computer in `LibreOffice <libreoffice_download_>`_
+
+.. _github_repo: https://github.com/eco-libre/life-line
+.. _libreoffice_download: https://www.libreoffice.org/download/
