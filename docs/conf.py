@@ -111,7 +111,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'helloWorlddoc'
+htmlhelp_basename = 'Eco-Libre Life-Line'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -138,7 +138,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'helloWorld.tex', 'helloWorld Documentation',
+    (master_doc, 'Eco-Libre Life-Line.tex', 'Eco-Libre Life-Line Documentation',
      'Michael Altfield', 'manual'),
 ]
 
@@ -148,7 +148,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'helloworld', 'helloWorld Documentation',
+    (master_doc, 'helloworld', 'Eco-Libre Life-Line Documentation',
      [author], 1)
 ]
 
@@ -159,8 +159,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'helloWorld', 'helloWorld Documentation',
-     author, 'helloWorld', 'One line description of project.',
+    (master_doc, 'Eco-Libre Life-Line', 'Eco-Libre Life-Line Documentation',
+     author, 'Eco-Libre Life-Line', 'One line description of project.',
      'Miscellaneous'),
 ]
 
