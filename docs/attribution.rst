@@ -29,7 +29,7 @@ Similar Projects
 
 The reader may be interested to investigate the following similar projects:
 
- * TODO
+ * `Gaviotas <https://en.wikipedia.org/wiki/Gaviotas>`_
 
 .. _maltfield: https://www.michaelaltfield.net
 .. _bplotkin: https://t.me/borisplot
