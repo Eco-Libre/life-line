@@ -51,6 +51,12 @@ for current_version in ${versions}; do
    # make the current language available to conf.py
    export current_version
    git checkout ${current_version}
+
+   # rename "master" to "stable"
+   if [[ "${current_version}" == "main" ]]; then
+      current_version="latest"
+   fi
+
  
    echo "INFO: Building sites for ${current_version}"
  
@@ -117,11 +123,11 @@ cat > index.html <<EOF
 <!DOCTYPE html>
 <html>
    <head>
-      <title>helloWorld Docs</title>
-      <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/en/main/'" />
+      <title>Eco-Libre Life-Line Docs</title>
+      <meta http-equiv = "refresh" content="0; url='/${REPO_NAME}/en/latest/'" />
    </head>
    <body>
-      <p>Please wait while you're redirected to our <a href="/${REPO_NAME}/en/main/">documentation</a>.</p>
+      <p>Please wait while you're redirected to our <a href="/${REPO_NAME}/en/latest/">documentation</a>.</p>
    </body>
 </html>
 EOF
