@@ -19,7 +19,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Eco-Libre Life-Line'
+project = 'life-line'
 copyright = '2023, Michael Altfield and the Eco-Libre Team'
 author = 'Michael Altfield'
 
@@ -277,9 +277,9 @@ today_fmt = "%B %d, %Y"
 epub_basename = 'target'
  
 html_context['downloads'] = list()
-html_context['downloads'].append( ('pdf', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/' +project+ '-docs_' +current_language+ '_' +current_version+ '.pdf') )
+html_context['downloads'].append( ('pdf', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/eco-libre_' +project+ '_' +current_language+ '_' +current_version+ '.pdf') )
  
-html_context['downloads'].append( ('epub', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/' +project+ '-docs_' +current_language+ '_' +current_version+ '.epub') )
+html_context['downloads'].append( ('epub', '/' +REPO_NAME+ '/' +current_language+ '/' +current_version+ '/eco-libre_' +project+ '_' +current_language+ '_' +current_version+ '.epub') )
  
 ##########################
 # "EDIT ON GITHUB" LINKS #
