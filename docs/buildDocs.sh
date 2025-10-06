@@ -22,6 +22,9 @@ apt-get -y install git rsync python3-sphinx python3-sphinx-rtd-theme python3-ste
 # create python virtual environment and install depends there
 python3 -m virtualenv /tmp/eco-libre-python-venv
 source /tmp/eco-libre-python-venv/bin/activate
+
+# copy all our apt-installed python modules into the venv
+rsync -av --progress /usr/lib/python3/dist-packages/ /tmp/eco-libre-python-venv/lib/*/site-packages/
  
 python3 -m pip install --upgrade rinohtype pygments
  
