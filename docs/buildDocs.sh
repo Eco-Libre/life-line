@@ -8,8 +8,8 @@ set -x
 #
 # Authors: Michael Altfield <michael@michaelaltfield.net>
 # Created: 2020-07-17
-# Updated: 2023-03-26
-# Version: 0.3
+# Updated: 2025-10-05
+# Version: 0.4
 ################################################################################
  
 ###################
@@ -18,6 +18,10 @@ set -x
  
 apt-get update
 apt-get -y install git rsync python3-sphinx python3-sphinx-rtd-theme python3-stemmer python3-git python3-pip python3-virtualenv python3-setuptools
+
+# create python virtual environment and install depends there
+python3 -m virtualenv /tmp/eco-libre-python-venv
+source /tmp/eco-libre-python-venv/bin/activate
  
 python3 -m pip install --upgrade rinohtype pygments
  
@@ -88,7 +92,7 @@ for current_version in ${versions}; do
       # EPUB #
       sphinx-build -b epub docs/ docs/_build/epub -D language="${current_language}"
       mkdir -p "${docroot}/${current_language}/${current_version}"
-      cp "docs/_build/epub/target.epub" "${docroot}/${current_language}/${current_version}/eco-libre_life-line__${current_language}_${current_version}.epub"
+      cp "docs/_build/epub/target.epub" "${docroot}/${current_language}/${current_version}/eco-libre_life-line_${current_language}_${current_version}.epub"
  
       # copy the static assets produced by the above build into our docroot
       rsync -av "docs/_build/html/" "${docroot}/"
