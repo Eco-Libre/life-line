@@ -8,7 +8,7 @@ set -x
 #
 # Authors: Michael Altfield <michael@michaelaltfield.net>
 # Created: 2020-07-17
-# Updated: 2025-10-05
+# Updated: 2025-10-07
 # Version: 0.4
 ################################################################################
  
@@ -23,7 +23,7 @@ apt-get -y install git rsync python3-sphinx python3-sphinx-rtd-theme python3-ste
 python3 -m virtualenv /tmp/eco-libre-python-venv --system-site-packages
 source /tmp/eco-libre-python-venv/bin/activate
 
-python3 -m pip install --upgrade rinohtype pygments
+python3 -m pip install --upgrade rinohtype pygments Sphinx
  
 #####################
 # DECLARE VARIABLES #
