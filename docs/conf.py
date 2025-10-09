@@ -80,7 +80,7 @@ pygments_style = None
 #
 #html_theme = 'alabaster'
 html_theme = 'sphinx_rtd_theme'
-html_logo = 'images/eco-libre_text-logo-2025.08.svg'
+html_logo = 'images/eco-libre_text-logo-2025.08_500px.png'
 html_favicon = 'images/eco-libre_logo-2025.08.svg'
 
 # Theme options are theme-specific and customize the look and feel of a theme
