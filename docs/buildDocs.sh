@@ -85,7 +85,7 @@ for current_version in ${versions}; do
       sphinx-build -b html docs/ docs/_build/html/${current_language}/${current_version} -D language="${current_language}"
  
       # PDF #
-      sphinx-build -b rinoh docs/ docs/_build/rinoh -D language="${current_language}"
+      sphinx-build -vvv -b rinoh docs/ docs/_build/rinoh -D language="${current_language}"
       mkdir -p "${docroot}/${current_language}/${current_version}"
       cp "docs/_build/rinoh/target.pdf" "${docroot}/${current_language}/${current_version}/eco-libre_life-line_${current_language}_${current_version}.pdf"
  
