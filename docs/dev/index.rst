@@ -34,8 +34,6 @@ If you have more money than free time, you can also help Eco-Libre by making a d
 
   BTC 1DXyJpmu2KQMw2v4QJVzzjZo6f87BBndu6
 
-  XMR TODO
-
 ::
 	TODO: Open-collective
 
