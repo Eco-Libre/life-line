@@ -265,6 +265,9 @@ for version in versions:
 
         html_context['versions'].append( (version, '/' +REPO_NAME+ '/' +current_language+ '/' +version+ '/') )
 
+        # set the "release" to the "version"
+        release = version
+
 # POPULATE LINKS TO OTHER FORMATS/DOWNLOADS
  
 # settings for creating PDF with rinoh
