@@ -8,8 +8,8 @@ set -x
 #
 # Authors: Michael Altfield <michael@michaelaltfield.net>
 # Created: 2020-07-17
-# Updated: 2025-10-07
-# Version: 0.4
+# Updated: 2026-04-08
+# Version: 0.5
 ################################################################################
  
 ###################
@@ -40,6 +40,22 @@ export SOURCE_DATE_EPOCH=$(git log -1 --pretty=%ct)
 docroot=`mktemp -d`
 
 export REPO_NAME="${GITHUB_REPOSITORY##*/}"
+
+####################
+# GET COMMON FILES #
+####################
+
+pwd
+ls -lah
+git clone https://github.com/Eco-Libre/common-files.git
+ls -lah
+pushd common-files
+ls -lah
+git verify-commit HEAD
+gpg --list-keys
+gpg --import ../KEYS
+git verify-commit HEAD
+popd
  
 ##############
 # BUILD DOCS #
