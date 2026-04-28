@@ -10,23 +10,29 @@ For more information (and build instructions), please see the [Eco-Libre Life-Li
 
  * https://eco-libre.github.io/life-line/
 
-# License
+# License(s)
 
-Copyright (C) 2023 Michael Altfield and the Eco-Libre Team
+Copyright (C) 2023 Michael Altfield and Eco-Libre
 
-The contents of this repo are under the GPL version 3 or later.
-In addition, any content other than code can also be used, at your
-choice, under CC-BY-SA version 4.0.
+The contents of this repo are licensed differently, depending on the 
+file. In general:
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+ 1. Most hardware files are licensed under CERN-OHL-S-2.0
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+ 2. Most software files are licensed under AGPL-3.0-only
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <http://www.gnu.org/licenses/>.
+ 3. Most other files are licensed CC-BY-SA-4.0
+
+ 4. Exceptions are defined according to the REUSE specification
+
+To determine which license applies to which file, please see the 
+`REUSE.toml` file. For more information on how to read and process 
+this file, please see the REUSE specification here:
+
+ * https://reuse.software/spec/
+
+The contents of this repo are distributed in the hope that it will be 
+useful, but WITHOUT ANY WARRANTY; without even the implied warranty 
+of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the 
+licenses under the LICENSES/ directory for more information.
+
