@@ -1,0 +1,22 @@
+version = 1
+SPDX-PackageName = "Eco-Libre Life-Line"
+SPDX-PackageSupplier = "https://eco-libre.org/contact"
+SPDX-PackageDownloadLocation = "https://github.com/Eco-Libre/life-line"
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "2023 Michael Altfield <https://email.michaelaltfield.net>", "2023 Eco-Libre <https://eco-libre.org/contact>"]
+SPDX-License-Identifier = "CC-BY-SA-4.0"
+
+[[annotations]]
+path = ["**.FCStd", "**.scad", "**.fzz", "**.blend", "**.kicad_pcb", "**.sh3d", "**.vue", "**.dxf", "**.dwg", "**.bim", "**.skp", "**.skb", "**.max", "**.3ds", "**.gto", "**.pod", "**.brd", "**.sch", "**.3dm", "**.dwb", "**.slddrw", "**.sldasm"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "2023 Michael Altfield <https://email.michaelaltfield.net>", "2023 Eco-Libre <https://eco-libre.org/contact>"]
+SPDX-License-Identifier = "CERN-OHL-S-2.0"
+
+[[annotations]]
+path = ["**.c", "**.cpp", "**.h", "**.hpp", "**.cc", "**.ino", "**.pde", "**.make", "**.automake", "**.cmake", "**.java", "**.javacc", "**.rust", "**.d", "**.j", "**.r", "**.sh", "**.bash", "**.zsh", "**.awk", "**.tcl", "**.py", "**.python", "**.python2", "**.python3", "**.FCMacro", "**.pl", "**.perl", "**.kivy", "**.qix", "**.dtd", "**.shp", "**.shz", "**.dbf", "**.shx", "**.prj", "**.kml", "**.php", "**.js", "**.javascript", "**.typescript", "**.ruby", "**.eruby", "**.cuda", "**.erlang", "**.lisp", "**.lua", "**.haskell", "**.go", "**.autohotkey", "**.basic", "**.swift", "**.vb", "**.asp"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["", "2023 Michael Altfield <https://email.michaelaltfield.net>", "2023 Eco-Libre <https://eco-libre.org/contact>"]
+SPDX-License-Identifier = "AGPL-3.0-only"
