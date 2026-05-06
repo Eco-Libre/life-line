@@ -26,3 +26,9 @@ path = ["cad/bushing_837-338.FCStd"]
 precedence = "aggregate"
 SPDX-FileCopyrightText = ["2017 Stephen Kaiser <freesol29@gmail.com>", "2018 Ruslan Krenzler"]
 SPDX-License-Identifier = "GPL-3.0-or-later"
+
+[[annotations]]
+path = ["cad/m16_40mm.FCStd"]
+precedence = "aggregate"
+SPDX-FileCopyrightText = ["2013 Johannes Reinhardt <jreinhardt@ist-dein-freund.de>", "2017 Bernd Hahnebach"]
+SPDX-License-Identifier = "LGPL-2.1-or-later"
