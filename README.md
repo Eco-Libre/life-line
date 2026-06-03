@@ -14,22 +14,9 @@ For more information (and build instructions), please see the [Eco-Libre Life-Li
 
 Copyright (C) 2023 Michael Altfield and Eco-Libre
 
-The contents of this repo are licensed differently, depending on the 
-file. In general:
-
- 1. Most hardware files are licensed under CERN-OHL-S-2.0
-
- 2. Most software files are licensed under AGPL-3.0-only
-
- 3. Most other files are licensed CC-BY-SA-4.0
-
- 4. Exceptions are defined according to the REUSE specification
-
-To determine which license applies to which file, please see the 
-`REUSE.toml` file. For more information on how to read and process 
-this file, please see the REUSE specification here:
-
- * https://reuse.software/spec/
+The contents of this repo are under the GPL version 3 or later.
+In addition, any content other than code can also be used, at your
+choice, under CC BY-SA version 4.0.
 
 The contents of this repo are distributed in the hope that it will be 
 useful, but WITHOUT ANY WARRANTY; without even the implied warranty 
